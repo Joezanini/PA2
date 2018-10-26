@@ -1,0 +1,5 @@
+README .....List of submitted files and descriptions
+List.c .....List Object and associated functions
+Lex.c .....Uses List object to manipulate data
+ListClient.c .....Provided test file for List object
+MakeFile .....Executes program
